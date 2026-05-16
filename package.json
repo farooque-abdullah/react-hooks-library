@@ -1,0 +1,1 @@
+{"name":"react-hooks-library","version":"1.0.0","description":"11 production-ready React custom hooks with interactive demos","scripts":{"dev":"vite","build":"vite build"},"dependencies":{"react":"^18.2.0","react-dom":"^18.2.0"},"devDependencies":{"@vitejs/plugin-react":"^4.0.3","vite":"^4.4.5"}}
